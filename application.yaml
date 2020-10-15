@@ -1,0 +1,4 @@
+file:
+  ordersWorkingDir: "C:/test/batch"
+  inDir: "input"
+  processedDir: "processed"
